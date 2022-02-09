@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @graxel
-- 👀 I’m interested in ... data science for robotics, city planning, finance, and cryptocurrency
-- 🌱 I’m currently learning ... Solidity
-- 💞️ I’m looking to collaborate on ... any data science projects!
-- 📫 How to reach me ... 
+**Hi, I’m @graxel. I'm a machine learning engineer.**
+<br>
 
-<!---
-graxel/graxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+Lately, I've been working on:
+- Approaches to stratified, grouped cross-validation of timeseries data
+- Monte Carlo simulations
+- Training XGBoost models
+- Investigating how cryptoeconomics differs from traditional economics
+
+<br>
+
+Some topics I'm interested in:
+
+- Blockchain and cryptocurrency
+- Robotics
+- Simulation
+- Urban planning and public transit
